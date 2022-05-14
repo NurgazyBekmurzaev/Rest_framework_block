@@ -4,3 +4,4 @@ drf-yasg
 psycopg2-binary
 python-decouple
 wheel
+Pillow==9.1.0
